@@ -1,0 +1,256 @@
+.container {
+    width: 1140px;
+    margin: 0 auto ;
+}
+
+.meal {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.img1 {
+    width: 372px;
+    height: 200px;
+    margin: 0 0 0 80px;
+}
+
+.img2 {
+    position: absolute;
+    width: 372px;
+    height: 200px;
+    left: 100px;
+    top: 150px;
+}
+
+.kubok {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    background: #161D2F;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.meal-title {
+    color: white;
+    margin: 5px;
+
+
+}
+
+.eating {
+    position: absolute;
+    width: 170px;
+    height: 45px;
+    background: #161D2F;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    left: 390px;
+    margin-top: 100px;
+
+}
+
+.eating-title {
+    margin: 5px;
+}
+
+#card {
+    margin: 190px 0 0 0;
+}
+
+.card {
+    background: linear-gradient(90deg, #09203F 0%, #161D2F 100%);
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+}
+
+.cards {
+    width: 350px;
+    height: 682px;
+    background: #ffffff;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0 16px 35px rgba(112, 144, 176, 0.2);
+    border-radius: 35px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.RP {
+
+}
+
+.green {
+    position: absolute;
+    width: 76px;
+    height: 75px;
+    left: 819px;
+    top: 281px;
+
+    background: #63C776;
+    border-radius: 0 35px;
+
+}
+
+.container {
+    width: 1140px;
+    height: 1140px;
+    margin: 0 auto;
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+
+.benefits {
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+
+    width: 450px;
+    height: 500px;
+
+}
+
+.tyrmakcha {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column-reverse;
+}
+
+.tyrmakcha1 {
+    position: absolute;
+    left: 0;
+
+}
+
+.tyrmakcha2 {
+    position: absolute;
+    left: 100%;
+}
+
+.container {
+    width: 1140px;
+    margin:0 auto;
+    background: white;
+    height: 800px;
+}
+
+.lin {
+    margin-top: 200px;
+
+    display: grid;
+    grid-template-columns: 200px 1fr 200px 1fr 200px 1fr;
+
+
+}
+
+
+.flower {
+margin: 500px;
+    display:grid ;
+    grid-template-columns: 1fr 1fr ;
+
+
+}
+
+.flower1 { width: 400px;
+    display: flex;
+    align-items: center;
+
+
+}
+.works{
+    display: flex;
+    flex-direction:column ;
+
+}
+.container{
+
+}
+.beard{
+
+    width: 1110px;
+    height: 406px;
+    background: #161D2F;
+color: white;
+
+
+}
+
+.beard1{
+margin: 100px;
+}
+.beardemail{ margin-left: 50px;
+    border: 1px solid #FFFFFF;
+    border-radius: 34px;
+    background: #161D2F;
+    color: white;
+
+}
+.beardjoin{
+    background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+    border-radius: 28px;
+    color: white;
+
+}
+.photosik{
+    display: grid;
+    grid-template-columns:1fr 1fr  ;
+    margin: -250px -9px 100px  609px  ;
+
+}
+
+
+.photo1{
+    width: 222px;
+    height: 194px;
+}
+.photo2{width: 167px;
+    height: 204px;
+
+}
+.photo3{
+    width: 222px;
+    height: 134px;
+}
+.photo4{
+    width: 177px;
+    height: 135px;
+
+
+}
+.stay{ margin-top: -200px;
+    display:grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+
+}
+.stay1{ display: flex;
+    flex-direction:column ;
+
+
+}
+
+.healty{
+    text-align: center;
+}
+.foot{
+    margin-top:-500px;
+}
+.foot1{
+    margin-top: -300px;
+}
